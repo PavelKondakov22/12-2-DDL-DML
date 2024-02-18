@@ -61,3 +61,4 @@ mysql> SHOW TABLES;
 customer         | customer_id
 ```
 **Ответ:**  
+![alt text](https://github.com/PavelKondakov22/12-2-DDL-DML/blob/main/s5.png)  
