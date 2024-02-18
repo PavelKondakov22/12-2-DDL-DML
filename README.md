@@ -60,3 +60,4 @@ mysql> SHOW TABLES;
 Название таблицы | Название первичного ключа
 customer         | customer_id
 ```
+**Ответ:**  
