@@ -29,6 +29,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 **Ответ:**  
 ![alt text](https://github.com/PavelKondakov22/12-2-DDL-DML/blob/main/s4.png)  
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*  
+```
 sudo su  
 apt install mysql-server mysql-client  
 mysql –u root –p  
@@ -52,7 +53,7 @@ mysql -u sys_temp -p
 mysql> SHOW DATABASES;  
 mysql> USE sakila;  
 mysql> SHOW TABLES;  
-  
+  ```
 ### Задание 2
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
 ```
